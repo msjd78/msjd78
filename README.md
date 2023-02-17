@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msjd78
 - 👀 I’m interested in playing with structured data
-- 🌱 I’m currently learning about deep learning
+- 🌱 I’m currently learning about deep learning and DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (via email: m.sajjad.m@gmail.com)
 
